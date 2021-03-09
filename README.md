@@ -36,10 +36,10 @@ An "overlay" on base zoning that further restricts the land uses
 
 ## D
 
-## Deed Restriction
+### Deed Restriction
 A private covenant between homeowners that resticts what can and can't be build on a given parcel of land.
 
-## DR
+### DR
 Abbreviation for [Deed Restriction](#deed-restriction)
 
 ## E
@@ -106,7 +106,6 @@ Often part of a zoning category that allows more than one unit on a given lot. T
 
 ### Multiple Listing Service
 A database of properties listed for sale. Commonly referred to as MLS.
-
 
 ## N
 
