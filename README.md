@@ -127,6 +127,13 @@ Not in My Backyard
 ### PHIMBY
 Public Housing in My Backyard
 
+### Planned Unit Development
+A master-planned development created under a special permitting scheme in which developers are able to waive certain zoning regulations if they can demonstrate that their plan
+on the whole serves the purpose of those regulations better.
+
+### PUD
+An abbreviation for [Planned Unit Development](#planned-unit-development)
+
 ## Q
 
 ## R
